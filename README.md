@@ -59,8 +59,13 @@ Config -
  - settings.json
 
 Data - @Chunzhi Li
+
 Routes - @Yetong Chen
+
 Views @Youlin Chen
+
 PublicMethods - @Siyan Liu
+
 Maps - @Wei Guo
+
 #### Download
