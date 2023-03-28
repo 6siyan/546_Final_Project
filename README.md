@@ -1,4 +1,4 @@
-# 546_Final_Project
+# Save Stray Animal CS546_Final_Project
 This is Stevens Institute of Technology CS546 team project repo
 
 {Project Name: Save Stray Animal}
