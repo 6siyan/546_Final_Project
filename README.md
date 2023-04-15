@@ -1,8 +1,6 @@
 # Save Stray Animal CS546_Final_Project
 This is Stevens Institute of Technology CS546 team project repo
 
-{Project Name: Save Stray Animal}
-
 Group members：
 
 Youlin Chen
@@ -57,15 +55,3 @@ Config -
  - mongoCommection.js
  - mongoCollection.js
  - settings.json
-
-Data - @Chunzhi Li
-
-Routes - @Yetong Chen
-
-Views @Youlin Chen
-
-PublicMethods - @Siyan Liu
-
-Maps - @Wei Guo
-
-#### Download
